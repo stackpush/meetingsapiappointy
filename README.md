@@ -17,6 +17,6 @@ You can access the API server at http://localhost:8083
 ### /meeting/\<id here>
 * GET : Get meeting using the id
  
-### /meetings?start=\<start time>&end=<endtime>
+### /meetings?start=\<start time>&end=\<endtime>
 * GET: Returns an array of meetings in JSON format that are within the given certain time range
 
